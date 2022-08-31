@@ -1,4 +1,4 @@
-package substratum.theme.template
+package com.rom4ster.customtheme
 
 object AdvancedConstants {
 

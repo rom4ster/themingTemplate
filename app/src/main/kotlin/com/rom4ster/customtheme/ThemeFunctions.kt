@@ -1,13 +1,13 @@
-package substratum.theme.template
+package com.rom4ster.customtheme
 
 import android.annotation.SuppressLint
 import android.content.Context
 import android.content.pm.PackageManager
 import android.content.pm.Signature
 import android.os.RemoteException
-import substratum.theme.template.AdvancedConstants.BLACKLISTED_APPLICATIONS
-import substratum.theme.template.AdvancedConstants.ORGANIZATION_THEME_SYSTEMS
-import substratum.theme.template.AdvancedConstants.OTHER_THEME_SYSTEMS
+import com.rom4ster.customtheme.AdvancedConstants.BLACKLISTED_APPLICATIONS
+import com.rom4ster.customtheme.AdvancedConstants.ORGANIZATION_THEME_SYSTEMS
+import com.rom4ster.customtheme.AdvancedConstants.OTHER_THEME_SYSTEMS
 
 @Suppress("ConstantConditionIf")
 object ThemeFunctions {
